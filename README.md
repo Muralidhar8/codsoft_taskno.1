@@ -1,2 +1,2 @@
-# PORTFOLIO
+# CODSOFT
 CodSoft Internship Projects
